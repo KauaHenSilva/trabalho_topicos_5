@@ -4,3 +4,4 @@ nbformat
 matplotlib
 seaborn 
 kaleido
+scikit-learn
